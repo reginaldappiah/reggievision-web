@@ -6638,9 +6638,11 @@ _.CW=r
 _.cy=s
 _.db=a0
 _.dx=a1},
-nK:function nK(a,b,c){this.c=a
-this.d=b
-this.a=c},
+nK:function nK(a,b,c,d){var _=this
+_.c=a
+_.d=b
+_.f=c
+_.a=d},
 qX:function qX(){this.c=this.a=null},
 nL:function nL(a,b,c){this.f=a
 this.b=b
@@ -48190,7 +48192,7 @@ s===$&&A.c()
 s.m()
 this.HE()},
 R(a){var s=null
-return new A.nK(new A.nJ(A.a2I(A.a2H(B.xF,s,s,s),new A.W4()),A.a4d("REGGIE VISION",s,s),A.a2I(A.a2H(B.xG,s,s,s),new A.W5()),s),A.S_(A.b([A.a4d("?",s,s)],t.F),B.h4),s)}}
+return new A.nK(new A.nJ(A.a2I(A.a2H(B.xF,s,s,s),new A.W4()),A.a4d("REGGIE VISION",s,s),A.a2I(A.a2H(B.xG,s,s,s),new A.W5()),s),A.S_(A.b([A.a4d("?",s,s)],t.F),B.h4),!0,s)}}
 A.W4.prototype={
 $0(){A.tR("Menu")},
 $S:0}
