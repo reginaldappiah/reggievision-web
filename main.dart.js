@@ -21716,7 +21716,7 @@ A.po(a)
 if(b!==r.a.get(a))throw A.h(A.i1("Platform interfaces must not be implemented with `implements`"))},
 a2k:function a2k(){},
 aCl(){var s,r,q,p,o,n,m,l,k,j=null,i=A.ayi()
-if(i.gce(i)==="/"||B.b.v(i.gql(),"ios")){s=i.nF(0,"/")
+if(i.gce(i)==="/ios"||B.b.v(i.gql(),"ios")){s=i.nF(0,"/")
 r=window.history
 r.toString
 q=s.gjX()
