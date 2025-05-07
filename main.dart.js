@@ -53108,7 +53108,7 @@ m(){var s=this.d
 s===$&&A.c()
 s.m()
 this.KQ()},
-N(a){var s=null,r=A.a7y(s,A.a7x(B.yv,s,s,s),s,new A.Xk(),s,s),q=A.rT("REGGIE VISION",s,s,s),p=A.a7y(s,A.a7x(B.yw,s,s,s),s,new A.Xl(),s,s)
+N(a){var s=null,r=A.a7y(s,A.a7x(B.yv,s,s,s),s,new A.Xk(),s,s),q=A.rT("REGGIE VISION 1.0",s,s,s),p=A.a7y(s,A.a7x(B.yw,s,s,s),s,new A.Xl(),s,s)
 return A.a6P(A.VA(B.c4,A.b([A.rT("?????",s,s,s)],t.E),B.ag,B.hA),new A.mo(r,q,p,s),!0)}}
 A.Xk.prototype={
 $0(){A.vG("Menu")},
