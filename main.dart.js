@@ -69397,7 +69397,7 @@ $2(a,b){return B.Fs},
 $S:466}
 A.FB.prototype={
 R(a){var s=A.qk(B.T,null,null).a6K(B.l)
-return new A.pi($.apC(),new A.a0R(),"Reggie Vision",s,!1,null)}}
+return new A.pi($.apC(),new A.a0R(),"REGGIE VISON 1.0",s,!1,null)}}
 A.a0R.prototype={
 $2(a,b){b.toString
 return A.H1(B.hh,A.c([b,B.PV],t.J),B.aa,B.fJ)},
