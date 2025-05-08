@@ -69396,7 +69396,7 @@ A.Nc.prototype={}
 A.oY.prototype={
 L(a){var s=null,r=this.c
 r=r==null?s:"GoException: "+r.a
-return A.agD(!0,A.k0(A.tS(A.c([B.Ob,B.wI,A.nH(r==null?"page not found":r,s,s,s),B.wI,new A.ym(new A.UP(a),B.Of,s)],t.E),B.fa,B.dK),s,s),!0)}}
+return A.agD(!0,A.k0(A.tS(A.c([B.Ob,B.wI,A.nH(r==null?"page not found":r,s,s,s),B.wI,new A.ym(new A.UP(a),B.Og,s)],t.E),B.fa,B.dK),s,s),!0)}}
 A.UP.prototype={
 $0(){return A.Wc(this.a).wx("/",null)},
 $S:0}
@@ -69443,7 +69443,7 @@ return A.cO(s,this.$ti.i("ef<1>").a(this.c).x,!1,s,!1,!0,s,s,s,s,s,s,s,s,s,s,s,s
 u0(a,b,c,d){return this.$ti.i("ef<1>").a(this.c).CW.$4(a,b,c,d)}}
 A.n6.prototype={}
 A.pw.prototype={
-L(a){var s=null,r=A.aiE(s,B.Oc),q=this.c
+L(a){var s=null,r=A.aiE(s,B.Od),q=this.c
 q=q==null?s:"GoException: "+q.a
 if(q==null)q="page not found"
 return A.ali(r,A.k0(A.tS(A.c([new A.x1(q,s),A.agR(B.Oa,new A.a_d(a),s)],t.E),B.fa,B.dK),s,s))}}
@@ -70371,7 +70371,7 @@ $0(){return this.a.d=!1},
 $S:0}
 A.pd.prototype={
 L(a){var s=null,r=A.nH("REGGIE VISION 1.0",s,s,s)
-return A.arZ(A.k0(A.tS(A.c([B.Oi,B.JO,new A.DP(new A.Ww(a),s,s,s,s,s,s,!1,s,!0,s,B.Oe,s)],t.E),B.fa,B.dK),s,s),new A.u_(r,s))}}
+return A.arZ(A.k0(A.tS(A.c([B.Oc,B.JO,new A.DP(new A.Ww(a),s,s,s,s,s,s,!1,s,!0,s,B.Of,s)],t.E),B.fa,B.dK),s,s),new A.u_(r,s))}}
 A.Ww.prototype={
 $0(){A.Wc(this.a).wx("/ios",null)},
 $S:0}
@@ -73027,11 +73027,11 @@ B.zp=new A.P6()
 B.zt=new A.tB(null,null,null,null,null,null,null)
 B.y=new A.B(0.7019607843137254,1,1,1,B.h)
 B.KM=new A.p(!0,B.y,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Od=new A.eQ("Loading Reggie Vision...",null,B.KM,null,null,null,null)
-B.zu=new A.hN(B.R,null,null,B.Od,null)
+B.Oe=new A.eQ("Loading Reggie Vision...",null,B.KM,null,null,null,null)
+B.zu=new A.hN(B.R,null,null,B.Oe,null)
 B.N8=new A.p(!0,null,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Og=new A.eQ("Welcome to the iOS Page!",null,B.N8,null,null,null,null)
-B.zw=new A.hN(B.R,null,null,B.Og,null)
+B.Oh=new A.eQ("Welcome to the iOS Page!",null,B.N8,null,null,null,null)
+B.zw=new A.hN(B.R,null,null,B.Oh,null)
 B.zx=new A.tD(null,null,null,null,null,null,null,null,null)
 B.zy=new A.tF(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.kA=new A.cX(0,B.o)
@@ -74598,8 +74598,8 @@ B.cN=new A.q3(1,"doNotPop")
 B.vI=new A.q3(2,"bubble")
 B.HQ=new A.GA(null,null)
 B.x0=new A.p(!0,null,null,null,null,null,24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Oh=new A.eQ("404 - Page Not Found \ud83d\ude35",null,B.x0,null,null,null,null)
-B.zv=new A.hN(B.R,null,null,B.Oh,null)
+B.Oi=new A.eQ("404 - Page Not Found \ud83d\ude35",null,B.x0,null,null,null,null)
+B.zv=new A.hN(B.R,null,null,B.Oi,null)
 B.HR=new A.q7(null,B.zv,null)
 B.cO=new A.nt(0,"idle")
 B.HS=new A.nt(1,"transientCallbacks")
@@ -75121,11 +75121,11 @@ B.L1=new A.p(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.O9=new A.dY(B.Mo,B.LB,B.Mp,B.MQ,B.Lh,B.Lo,B.LT,B.MI,B.M2,B.Nf,B.KT,B.L8,B.Nb,B.Nq,B.L1)
 B.Oa=new A.eQ("Home",null,null,null,null,null,null)
 B.Ob=new A.eQ("Page Not Found",null,B.fW,null,null,null,null)
-B.Oc=new A.eQ("Page Not Found",null,null,null,null,null,null)
-B.Oe=new A.eQ("Go to iOS Page \ud83c\udf4f",null,null,null,null,null,null)
+B.Oc=new A.eQ("Welcome to Reggie Vision \ud83d\udc41\ufe0f..",null,B.x0,B.fR,null,null,null)
+B.Od=new A.eQ("Page Not Found",null,null,null,null,null,null)
+B.Of=new A.eQ("Go to iOS Page \ud83c\udf4f",null,null,null,null,null,null)
 B.LJ=new A.p(!0,B.k,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Of=new A.eQ("Go to home page",null,B.LJ,null,null,null,null)
-B.Oi=new A.eQ("Welcome to Reggie Vision \ud83d\udc41\ufe0f",null,B.x0,B.fR,null,null,null)
+B.Og=new A.eQ("Go to home page",null,B.LJ,null,null,null,null)
 B.Rg=new A.a5Y(0,"system")
 B.Gh=new A.i(0.056,0.024)
 B.Gt=new A.i(0.108,0.3085)
