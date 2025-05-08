@@ -69396,7 +69396,7 @@ A.Nc.prototype={}
 A.oY.prototype={
 L(a){var s=null,r=this.c
 r=r==null?s:"GoException: "+r.a
-return A.agD(!0,A.k0(A.tS(A.c([B.Ob,B.wI,A.nH(r==null?"page not found":r,s,s,s),B.wI,new A.ym(new A.UP(a),B.Og,s)],t.E),B.fa,B.dK),s,s),!0)}}
+return A.agD(!0,A.k0(A.tS(A.c([B.Ob,B.wI,A.nH(r==null?"page not found":r,s,s,s),B.wI,new A.ym(new A.UP(a),B.Of,s)],t.E),B.fa,B.dK),s,s),!0)}}
 A.UP.prototype={
 $0(){return A.Wc(this.a).wx("/",null)},
 $S:0}
@@ -73030,8 +73030,8 @@ B.KM=new A.p(!0,B.y,null,null,null,null,16,null,null,null,null,null,null,null,nu
 B.Od=new A.eQ("Loading Reggie Vision...",null,B.KM,null,null,null,null)
 B.zu=new A.hN(B.R,null,null,B.Od,null)
 B.N8=new A.p(!0,null,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Of=new A.eQ("Welcome to the iOS Page",null,B.N8,null,null,null,null)
-B.zw=new A.hN(B.R,null,null,B.Of,null)
+B.Og=new A.eQ("Welcome to the iOS Page!",null,B.N8,null,null,null,null)
+B.zw=new A.hN(B.R,null,null,B.Og,null)
 B.zx=new A.tD(null,null,null,null,null,null,null,null,null)
 B.zy=new A.tF(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.kA=new A.cX(0,B.o)
@@ -75124,7 +75124,7 @@ B.Ob=new A.eQ("Page Not Found",null,B.fW,null,null,null,null)
 B.Oc=new A.eQ("Page Not Found",null,null,null,null,null,null)
 B.Oe=new A.eQ("Go to iOS Page \ud83c\udf4f",null,null,null,null,null,null)
 B.LJ=new A.p(!0,B.k,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Og=new A.eQ("Go to home page",null,B.LJ,null,null,null,null)
+B.Of=new A.eQ("Go to home page",null,B.LJ,null,null,null,null)
 B.Oi=new A.eQ("Welcome to Reggie Vision \ud83d\udc41\ufe0f",null,B.x0,B.fR,null,null,null)
 B.Rg=new A.a5Y(0,"system")
 B.Gh=new A.i(0.056,0.024)
