@@ -68444,7 +68444,7 @@ A.MG.prototype={}
 A.oK.prototype={
 R(a){var s=null,r=this.c
 r=r==null?s:"GoException: "+r.a
-return A.aks(!0,A.jO(A.CD(A.c([B.NO,B.wx,A.He(r==null?"page not found":r,s,s,s),B.wx,new A.xX(new A.Uc(a),B.NS,s)],t.J),B.f2,B.f3),s,s),!0)}}
+return A.aks(!0,A.jO(A.CD(A.c([B.NO,B.wx,A.He(r==null?"page not found":r,s,s,s),B.wx,new A.xX(new A.Uc(a),B.NT,s)],t.J),B.f2,B.f3),s,s),!0)}}
 A.Uc.prototype={
 $0(){return A.afd(this.a).wn("/",null)},
 $S:0}
@@ -73613,8 +73613,8 @@ B.NU=new A.eG("404 - Page Not Found \ud83d\ude35",null,B.wR,null,null,null,null)
 B.zf=new A.hA(B.a0,null,null,B.NU,null)
 B.Hr=new A.ne(null,B.zf,null)
 B.ML=new A.p(!0,null,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.NT=new A.eG("Welcome to the iOS Page!",null,B.ML,null,null,null,null)
-B.zg=new A.hA(B.a0,null,null,B.NT,null)
+B.NS=new A.eG("Welcome to the iOS Page",null,B.ML,null,null,null,null)
+B.zg=new A.hA(B.a0,null,null,B.NS,null)
 B.Hs=new A.ne(null,B.zg,null)
 B.cJ=new A.nf(0,"idle")
 B.Ht=new A.nf(1,"transientCallbacks")
@@ -74136,7 +74136,7 @@ B.NO=new A.eG("Page Not Found",null,B.fP,null,null,null,null)
 B.NP=new A.eG("Page Not Found",null,null,null,null,null,null)
 B.NR=new A.eG("Go to iOS Page \ud83c\udf4f",null,null,null,null,null,null)
 B.Ll=new A.p(!0,B.k,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.NS=new A.eG("Go to home page",null,B.Ll,null,null,null,null)
+B.NT=new A.eG("Go to home page",null,B.Ll,null,null,null,null)
 B.NV=new A.eG("Welcome to Reggie Vision \ud83d\udc41\ufe0f",null,B.wR,B.fK,null,null,null)
 B.QU=new A.a5k(0,"system")
 B.FU=new A.i(0.056,0.024)
