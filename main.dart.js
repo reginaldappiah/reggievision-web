@@ -74116,7 +74116,7 @@ $0(){var s,r=A.Ya(this.a).c
 r===$&&A.a()
 s=r.Ib()
 if(s==null||!s.v4())A.ab(A.amM("There is nothing to pop"))
-s.Qv("corkboard")},
+s.Qv("/corkboard")},
 $S:0}
 A.b2.prototype={
 d_(a){var s=a.a,r=this.a,q=s[15]
