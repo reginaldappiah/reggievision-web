@@ -64334,11 +64334,9 @@ d=b
 break
 case 11:break
 case 9:a1=p.a
-a2=p.x
-if(a2==null)a2=b2
 a1=a1.e.a
 if((a1.a&30)!==0)A.ab(A.aT("Future already completed"))
-a1.k7(a2)
+a1.k7(b2)
 p.x=null
 p.d=B.RT
 continue $label0$1
@@ -74116,7 +74114,7 @@ $0(){var s,r=A.Ya(this.a).c
 r===$&&A.a()
 s=r.Ib()
 if(s==null||!s.v4())A.ab(A.amM("There is nothing to pop"))
-s.Qv("/corkboard")},
+s.Qv(null)},
 $S:0}
 A.b2.prototype={
 d_(a){var s=a.a,r=this.a,q=s[15]
